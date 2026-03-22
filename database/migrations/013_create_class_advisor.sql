@@ -6,7 +6,7 @@ Developer     : Chandra Shekhar Bansal
 Contact       : chandrashekahrbansal.2006@gmail.com
 Version       : 1.0.0 
 Date          : 2026-03-22
-Description   : creates the `class_advisor` table for all staff members (teacher, admin, manager, etc).
+Description   : creates the `class_advisor` table for all class advisor assignment.
 		        this is the thirteenth table in the migration order.
 ===================================================================
 */
